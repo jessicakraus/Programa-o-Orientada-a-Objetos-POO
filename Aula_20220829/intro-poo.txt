@@ -1,0 +1,15 @@
+CONCEITUAIS
+1. Descreva, com as suas próprias palavras, o que é Classe.
+Resposta: A classe seria a definição de um 'Tipo' que armazena características semelhantes (que seriam os atributos).   
+
+2. Diferencie, com as suas próprias palavras, Classe de Objeto.
+Resposta: Classe seria a declaração de um 'Tipo', a classe realiza a definição dos métodos e atributos em comuns que serão compartilhados pelos objetos e os Objetos seriam as instâncias da classe. 
+Exemplo de classe e de objetos: A classe “Bolo”, para fazer um bolo temos características semelhantes, como sabor, tamanho, recheio entre outras características e 
+temos os seguintes objetos da classe: Bolo de ló, torta, cuca, cada um destes objetos possui seus próprios atributos, mas ambos pertencem a mesma classe “Bolo”. 
+
+3. O que é instância de uma Classe?
+Resposta: Instância de uma Classe seria o objeto, e ao dizer "instaciar uma classe" seria informar um novo objeto para ela.
+
+4. O que são atributos e por que, em Orientação a Objetos, devemos encapsulá-los?
+Resposta: Atributos são as características de um objeto, essas características também são conhecidas como variáveis, utilizando o exemplo dos cães, temos alguns atributos, tais como: cor, peso, raça, nome...
+Devemos encapsulá-los para poder gerenciar o controle de acesso aos atributos.
