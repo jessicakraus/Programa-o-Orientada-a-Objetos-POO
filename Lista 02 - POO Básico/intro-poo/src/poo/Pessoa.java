@@ -4,8 +4,7 @@ public class Pessoa {
 	
 	private String nome;
 	private int cpf;
-	private int idade;
-	
+	private int idade;	
 	
 	public String getNome() {
 		return nome;

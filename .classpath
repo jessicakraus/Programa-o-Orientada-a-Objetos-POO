@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Lista 01 - Introdução a JavaArquivo/src"/>
+	<classpathentry kind="src" path="Lista 02 - POO Básico/intro-poo/src"/>
+	<classpathentry kind="output" path="Lista 01 - Introdução a JavaArquivo/bin"/>
+</classpath>
