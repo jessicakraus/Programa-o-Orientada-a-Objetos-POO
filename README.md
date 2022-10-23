@@ -1,1 +1,1 @@
-Práaticas de Programação Orientada a Objetos - IFSC Gaspar
+Práticas de Programação Orientada a Objetos - IFSC Gaspar
